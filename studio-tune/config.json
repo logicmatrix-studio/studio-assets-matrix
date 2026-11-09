@@ -1,0 +1,112 @@
+{
+  "tune-files": [
+    {
+      "id": "1",
+      "instrument_name": "Acoustic Grand\nPiano",
+      "file_name": "0.sf2",
+      "file_size_kb": "16600"
+    },
+    {
+      "id": "2",
+      "instrument_name": "Stein Grand\nPiano",
+      "file_name": "1.sf2",
+      "file_size_kb": "21600"
+    },
+    {
+      "id": "3",
+      "instrument_name": "Yamaha DX7\nPiano",
+      "file_name": "2.sf2",
+      "file_size_kb": "9370"
+    },
+    {
+      "id": "4",
+      "instrument_name": "Honky-tonk\nPiano",
+      "file_name": "3.sf2",
+      "file_size_kb": "13170"
+    },
+    {
+      "id": "5",
+      "instrument_name": "Synthesized\nPiano",
+      "file_name": "4.sf2",
+      "file_size_kb": "15450"
+    },
+    {
+      "id": "6",
+      "instrument_name": "Xylophone",
+      "file_name": "5.sf2",
+      "file_size_kb": "4100"
+    },
+    {
+      "id": "7",
+      "instrument_name": "Steel-String Acoustic\nGuitar",
+      "file_name": "6.sf2",
+      "file_size_kb": "5170"
+    },
+    {
+      "id": "8",
+      "instrument_name": "Electric Guitar\nClean",
+      "file_name": "7.sf2",
+      "file_size_kb": "10550"
+    },
+    {
+      "id": "9",
+      "instrument_name": "Baroque\nHarpsichord",
+      "file_name": "8.sf2",
+      "file_size_kb": "90"
+    },
+    {
+      "id": "10",
+      "instrument_name": "Fazioli Grand\nPiano",
+      "file_name": "9.sf2",
+      "file_size_kb": "16780"
+    },
+    {
+      "id": "11",
+      "instrument_name": "Giga Piano",
+      "file_name": "10.sf2",
+      "file_size_kb": "17110"
+    },
+    {
+      "id": "12",
+      "instrument_name": "Jazz Guitars",
+      "file_name": "11.sf2",
+      "file_size_kb": "1900"
+    },
+    {
+      "id": "13",
+      "instrument_name": "Nylon Guitar",
+      "file_name": "12.sf2",
+      "file_size_kb": "60"
+    },
+    {
+      "id": "14",
+      "instrument_name": "Funky Guitars",
+      "file_name": "13.sf2",
+      "file_size_kb": "450"
+    },
+    {
+      "id": "15",
+      "instrument_name": "Acoustic\nGuitars",
+      "file_name": "14.sf2",
+      "file_size_kb": "910"
+    },
+    {
+      "id": "16",
+      "instrument_name": "Yamaha Electone\nME-200 Piano",
+      "file_name": "15.sf2",
+      "file_size_kb": "6600"
+    },
+    {
+      "id": "17",
+      "instrument_name": "DX100 - Lately\nBass Piano",
+      "file_name": "16.sf2",
+      "file_size_kb": "280"
+    },
+    {
+      "id": "18",
+      "instrument_name": "PSR-F50\nPiano",
+      "file_name": "17.sf2",
+      "file_size_kb": "4830"
+    }
+  ]
+}
